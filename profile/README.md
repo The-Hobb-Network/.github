@@ -4,7 +4,7 @@
 
 **Building bridges between gaming communities**
 
-[![Website](https://img.shields.io/badge/Website-hobbnetwork.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hobbnetwork.net)
+[![Website](https://img.shields.io/badge/Website-site.hobbnetwork.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://site.hobbnetwork.net)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dc.hobbnetwork.net)
 
 ---
@@ -19,24 +19,18 @@ Welcome to **The Hobb Network** — a community-focused gaming network dedicated
 
 - **Gaming Communities** — We host and maintain gaming servers and communities
 - **Discord Integration** — Seamless communication tools that bridge the gap between games and Discord
-- **Open Source Projects** — We believe in giving back to the community through open-source development
+- **Plugin Development** — Creating custom Minecraft server plugins for unique gaming experiences
 
 ## 🔗 Quick Links
 
 | Resource | Link |
 |----------|------|
-| 🌐 Main Website | [hobbnetwork.net](https://hobbnetwork.net) |
+| 🌐 Website | [site.hobbnetwork.net](https://site.hobbnetwork.net) |
 | 💬 Discord Server | [dc.hobbnetwork.net](https://dc.hobbnetwork.net) |
-| 🏗️ Beta Site | [site.hobbnetwork.net](https://site.hobbnetwork.net) |
 
-## 🤖 Our Projects
+## 🛠️ What We Work On
 
-### EssentialsRelay
-
-A Discord bot designed to relay messages between Minecraft servers and Discord channels, keeping your community connected no matter where they play.
-
-- [Terms of Service](./EssentialsRelay/ToS.md)
-- [Privacy Policy](./EssentialsRelay/PrivacyPolicy.md)
+We mainly develop Minecraft server plugins ranging from enhanced survival experience plugins to full overhauls and custom player mechanics. Most of our work is private, but we're passionate about creating unique gaming experiences.
 
 ## 🤝 Join Our Community
 
